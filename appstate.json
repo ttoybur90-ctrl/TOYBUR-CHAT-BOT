@@ -1,1 +1,65 @@
-এখানের টেক্সট গুলো কেটে আপনার ফেসবুক আইডির কুকি বসান ✅
+[
+    {
+        "key": "datr",
+        "value": "3Qi1aWKh9co7QBNgjaP9WnCU",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-14T07:39:11.505Z",
+        "lastAccessed": "2026-03-14T07:39:11.505Z"
+    },
+    {
+        "key": "wd",
+        "value": "1366x641",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-14T07:39:11.505Z",
+        "lastAccessed": "2026-03-14T07:39:11.505Z"
+    },
+    {
+        "key": "sb",
+        "value": "Twm1aX6fIQZpkIJA2X_JcSI5",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-14T07:39:11.505Z",
+        "lastAccessed": "2026-03-14T07:39:11.505Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61561155789038",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-14T07:39:11.505Z",
+        "lastAccessed": "2026-03-14T07:39:11.505Z"
+    },
+    {
+        "key": "xs",
+        "value": "49%3AqKhCb0zCZdRAUg%3A2%3A1773473861%3A-1%3A-1%3A%3AAcyfZt__OLhqG6rxYGpfqnl8wDd3OTrxKMjPOK1gcA",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-14T07:39:11.505Z",
+        "lastAccessed": "2026-03-14T07:39:11.505Z"
+    },
+    {
+        "key": "presence",
+        "value": "C%7B%22lm3%22%3A%22sc.30529153630062419%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1773473875303%2C%22v%22%3A1%7D",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-14T07:39:11.505Z",
+        "lastAccessed": "2026-03-14T07:39:11.505Z"
+    },
+    {
+        "key": "fr",
+        "value": "1u4DTIpupQEsus8Ca.AWe90ZzZR7Wo_1lvczvKTmLDE6wOsXo5EgGiFITN4gLb5UKuW80.BptRBJ..AAA.0.0.BptRCb.AWeDan42VGgdz-y9Ak336w0vbQY",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-14T07:39:11.505Z",
+        "lastAccessed": "2026-03-14T07:39:11.505Z"
+    }
+]
